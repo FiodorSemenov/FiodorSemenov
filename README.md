@@ -9,16 +9,13 @@
     <h4>I'm study at the Peter the Great St.Petersburg Polytechnic University<br />
     Direction: Radio Engineering <br />
     
-    I'm interested in<br />
-    Infomatics <br />
-    Mathematics <br />
-    Football <br />
-    Cars <br />
-    I’m learning <br />
-        Python<br />
-        C++ <br />
-    </details>
-    </h4>
-    </i>
-</div>
+    I'm interested in
+    Infomatics
+    Mathematics
+    Football
+    Cars
+    I’m learning 
+        Python
+        C++
+  
 
