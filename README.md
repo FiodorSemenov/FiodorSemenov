@@ -10,8 +10,8 @@
     Direction: Radio Engineering <br />
     
     I'm interested in<br />
-    Infomatics<br />
-    Mathematics<br />
+    Infomatics <br />
+    Mathematics <br />
     Football <br />
     Cars <br />
     I’m learning <br />
