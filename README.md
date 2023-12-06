@@ -1,20 +1,27 @@
-### Hi there 👋, I'm Fedor
+<div id="header" align="center">
+    <h1>Hi there, I'm Fyodor</h1>
+    <h3>Student from St.Peterburg</h3>
+    
+</div>
 
-- 🌱 I’m currently learning programming in Python and C++
-- 👯 I’m looking to collaborate with a person who can share experience
-- 🤔 I’m looking for help with learning English
-- 📫 How to reach me: https://vk.com/id328310613
-                      https://t.me/Fedoss111
+<div id="body">
+    <i>
+    <h4>I'm study at the Peter the Great St.Petersburg Polytechnic University<br />
+    Direction: Radio Engineering <br />
+    Group: 49311101/30002 <br />
+    <details>
+    <summary> I'm interested in:</summary><br />
+    Infomatics<br />
+    Mathematics<br />
+    Football />
+    Cars
+    </details>
+    <details>
+    <summary> I’m learning:</summary><br />
+        Python<br />
+        C++ <br />
+    </details>
+    </h4>
+    </i>
+</div>
 
-<!--
-**FiodorSemenov/FiodorSemenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning programming in Python and C++
-- 👯 I’m looking to collaborate with a person who can share experience
-- 🤔 I’m looking for help with learning English
-- 📫 How to reach me: https://vk.com/id328310613
-                      https://t.me/Fedoss111
-
--->
