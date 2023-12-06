@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning English
 - 📫 How to reach me: https://vk.com/id328310613
                       https://t.me/Fedoss111
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+
 -->
