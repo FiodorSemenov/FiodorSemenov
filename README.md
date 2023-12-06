@@ -4,17 +4,10 @@
 
 </div>
 
-    <i>
-    <h4>🏫I'm study at the Peter the Great St.Petersburg Polytechnic University🏫<br />
-    Direction: Radio Engineering <br />
+I'm study at the Peter the Great St.Petersburg Polytechnic University in direction radio engineering. <br />
+- I'm learning: python, C++ and english language <br />
+- I'm interesed: Football, cars, informatics
+        
     
-    I'm interested in
-    Infomatics
-    Mathematics
-    Football
-    Cars
-    I’m learning    
-    Python
-    C++
-  
+    
 
